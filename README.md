@@ -1,6 +1,6 @@
 ## Hi there 👋 Im palmtree
 
-(https://streak-stats.demolab.com/?user=Palmtree890&theme=github-dark-blue&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=EB8217&background=45%2C0D1117%2C501D1D)
+https://streak-stats.demolab.com/?user=Palmtree890&theme=github-dark-blue&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=EB8217&background=45%2C0D1117%2C501D1D
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 Here are some ideas to get you started:
 

@@ -25,6 +25,4 @@ I can code in:
 ## contact me
  Email: echo "cGFsbXRyZWUwM0Bwcm90b24ubWU=" | base64 -d
  
- Signal: palmtree.09
- 
  Discord: palmtree890

@@ -16,13 +16,17 @@ I can code in:
 
 ## 🌐 I have a website at [palmtree.technology](https://palmtree.technology)
 
+## 🧅 I have an TOR website
+
 ## ✅ Fun facts
 - I like photoshop and animation with adobe animate.
 -  🐍 I code in python, HTML, and bash.
 -  🔭 I’m currently working on [pipass zerotrace](github.com/palmtree890/pipass-zerotrace)
-- ⚡ Fun fact: Networkchuck, talking sasquach, and ghoststrat are my favorite youtubers.
+- ⚡ Fun fact: Networkchuck, talking sasquach, and ghoststrats are my favorite youtubers.
 
 ## contact me
  Email: echo "cGFsbXRyZWUwM0Bwcm90b24ubWU=" | base64 -d
  
  Discord: palmtree890
+
+ Signal: check my website ✅

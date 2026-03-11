@@ -16,8 +16,6 @@ I can code in:
 
 ## 🌐 I have a website at [palmtree.technology](https://palmtree.technology)
 
-## 🧅 I have an TOR website
-
 ## ✅ Fun facts
 - I like photoshop and animation with adobe animate.
 -  🐍 I code in python, HTML, and bash.

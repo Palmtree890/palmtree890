@@ -19,7 +19,7 @@ I can code in:
 ## ✅ Fun facts
 - I like photoshop and animation with adobe animate.
 -  🐍 I code in python, HTML, and bash.
--  🔭 I’m currently working on [pipass zerotrace](github.com/palmtree890/pipass-zerotrace)
+-  🔭 I’m currently working on [pipass zerotrace](github.com/palmtree890/pipass-zerotrace) and rpi 5 crypto mining
 - ⚡ Fun fact: Networkchuck, talking sasquach, and ghoststrats are my favorite youtubers.
 
 ## contact me
@@ -28,3 +28,7 @@ I can code in:
  Discord: palmtree890
 
  Signal: check my website ✅
+
+## donating XMR:
+if you have monero and you are willing to donate my wallet address is:
+4BDft9ajBbFWwZPdLCAaHC8dfexmMAFgyP4WE51khSyvdsDkz1ax2P5HmQN43ZuG1V8a3C6Z62EZCPQnBzxZT4cPQ5hE2nL

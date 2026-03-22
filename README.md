@@ -8,7 +8,7 @@ I can code in:
 
 ## I like to learn about:
 - pentesting
-- web dessign
+- web development
 - python
 
 ## 📊 My GitHub Stats

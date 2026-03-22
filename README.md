@@ -29,7 +29,7 @@ I can code in:
 
  Signal: check my website ✅
 
-## donating XMR:
+## 🪙 donating XMR:
 if you have monero and you are willing to donate my wallet address is:
 
 alius: [donate.palmtree.technology](monero:donate.palmtree.technology?tx_amount=0.05&tx_description=Donation%20for%20palmtree)

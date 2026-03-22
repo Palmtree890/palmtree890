@@ -32,6 +32,6 @@ I can code in:
 ## 🪙 donating XMR:
 if you have monero and you are willing to donate my wallet address is:
 
-alius: [![Monero](https://img.shields.io/badge/Donate-Monero-orange?logo=monero&logoColor=white)](monero:donate.palmtree.technology) 
+[![Monero](https://img.shields.io/badge/Donate-Monero-orange?logo=monero&logoColor=white)](monero:donate.palmtree.technology) 
 
 address: 4BDft9ajBbFWwZPdLCAaHC8dfexmMAFgyP4WE51khSyvdsDkz1ax2P5HmQN43ZuG1V8a3C6Z62EZCPQnBzxZT4cPQ5hE2nL

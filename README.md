@@ -32,7 +32,7 @@ I can code in:
 ## 🪙 donating XMR:
 if you have monero and you are willing to donate my wallet address is:
 
-alius: [donate.palmtree.technology](monero:donate.palmtree.technology?tx_amount=0.05&tx_description=Donation%20for%20palmtree)
-<a href="monero:donate.palmtree.technology?tx_description=Support">Donate Monero (OpenAlias)</a>
+[![Monero](https://img.shields.io/badge/Donate-Monero-orange?logo=monero&logoColor=white)](https://donate.palmtree.technology) 
+`donate.palmtree.technology`
 
 address: 4BDft9ajBbFWwZPdLCAaHC8dfexmMAFgyP4WE51khSyvdsDkz1ax2P5HmQN43ZuG1V8a3C6Z62EZCPQnBzxZT4cPQ5hE2nL

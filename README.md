@@ -27,7 +27,7 @@ I can code in:
  
  Discord: palmtree890
 
- Signal: check my website ✅
+ Signal: [palmtree.09](https://signal.me/#eu/juyFTvu9XgXBab8FF5_VTSAR4pm23GFvtdzK-_A5oUIIkzMSFA5E7pxLjUuQTEpe)
 
 ## 🪙 donating XMR:
 if you have monero and you are willing to donate my wallet address is:<br>

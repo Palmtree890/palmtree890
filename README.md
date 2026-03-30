@@ -23,9 +23,9 @@ I can code in:
 - ⚡ Fun fact: Networkchuck, talking sasquach, and ghoststrats are my favorite youtubers.
 
 ## contact me
- Email: echo "cGFsbXRyZWUwM0Bwcm90b24ubWU=" | base64 -d
+ Email: [cGFsbXRyZWUwM0Bwcm90b24ubWU=](converter.palmtree.technology) | base64
  
- Discord: palmtree890
+ Discord: [palmtree890](https://discord.com/users/1364777152721191013)
 
  Signal: [palmtree.09](https://signal.me/#eu/juyFTvu9XgXBab8FF5_VTSAR4pm23GFvtdzK-_A5oUIIkzMSFA5E7pxLjUuQTEpe)
 

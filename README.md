@@ -22,6 +22,9 @@ I can code in:
 -  🔭 I’m currently working on making a flipper zero app using claude and rpi 5 crypto mining
 -  ⚡ Fun fact: Networkchuck, talking sasquach, and ghoststrats are my favorite youtubers.
 
+## photoshop work
+<img src="kali_palmtree.png>kali palmtree</img>
+
 ## contact me
  Email: [cGFsbXRyZWUwM0Bwcm90b24ubWU=](converter.palmtree.technology) | base64
  

@@ -19,7 +19,7 @@ I can code in:
 ## ✅ Fun facts
 - I like photoshop and animation with adobe animate.
 -  🐍 I code in python, HTML, and bash.
--  🔭 I’m currently working on [pipass zerotrace](github.com/palmtree890/pipass-zerotrace) and rpi 5 crypto mining
+-  🔭 I’m currently working on making a flipper zero app using claude and rpi 5 crypto mining
 - ⚡ Fun fact: Networkchuck, talking sasquach, and ghoststrats are my favorite youtubers.
 
 ## contact me

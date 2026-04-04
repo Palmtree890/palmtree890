@@ -23,7 +23,7 @@ I can code in:
 -  ⚡ Fun fact: Networkchuck, talking sasquach, and ghoststrats are my favorite youtubers.
 
 ## photoshop work
-<img src="kali_palmtree.png">kali palmtree</img>
+<img src="kali_palmtree.png" width="192" height="128">kali palmtree</img>
 
 ## contact me
  Email: [cGFsbXRyZWUwM0Bwcm90b24ubWU=](converter.palmtree.technology) | base64

@@ -17,10 +17,10 @@ I can code in:
 ## 🌐 I have a website at [palmtree.technology](https://palmtree.technology)
 
 ## ✅ Fun facts
-- I like photoshop and animation with adobe animate.
+-  📷 I like photoshop and animation with adobe animate.
 -  🐍 I code in python, HTML, and bash.
 -  🔭 I’m currently working on making a flipper zero app using claude and rpi 5 crypto mining
-- ⚡ Fun fact: Networkchuck, talking sasquach, and ghoststrats are my favorite youtubers.
+-  ⚡ Fun fact: Networkchuck, talking sasquach, and ghoststrats are my favorite youtubers.
 
 ## contact me
  Email: [cGFsbXRyZWUwM0Bwcm90b24ubWU=](converter.palmtree.technology) | base64

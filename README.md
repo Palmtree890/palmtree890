@@ -21,6 +21,7 @@ I can code in:
 -  🐍 I code in python, HTML, and bash.
 -  🔭 I’m currently working on making a flipper zero app using claude and rpi 5 crypto mining
 -  ⚡ Fun fact: Networkchuck, talking sasquach, and ghoststrats are my favorite youtubers.
+-   I like trying out linux distros.
 
 ## photoshop work
 <img src="kali_palmtree.png" width="192" height="128"> <br>kali palmtree wallpaper</img>
